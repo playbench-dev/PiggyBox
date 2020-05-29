@@ -1,0 +1,330 @@
+<resources>
+    <string name="app_name">PiggyBox</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Do you want to reset?</string>
+    <string name="account_book">Account book</string>
+    <string name="start">Start</string>
+    <string name="whatname">What"&apos;"s your name?</string>
+    <string name="money">Money</string>
+    <string name="back">Press the "&apos;"Back"&apos;" button again to exit.</string>
+    <string name="saving">Saving</string>
+    <string name="amont">Please enter an amount.</string>
+    <string name="day">Day</string>
+    <string name="date">Date</string>
+    <string name="total">Total</string>
+    <string name="exceed">Exceed the amount saved.</string>
+    <string name="withdraw">WITHDRAW</string>
+    <string name="reset">RESET</string>
+    <string name="ok">OK</string>
+    <string name="hi">Hi,</string>
+    <string name="next">Next</string>
+    <string name="pleaseNmae">Please enter a nickname.</string>
+    <string name="admob_app_id">ca-app-pub-9949413160725384~8100255562</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9949413160725384/7445842961</string>
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="yk">"\n" +
+                        "Piggy box Terms and Conditions\n" +
+                        "\n" +
+                        "The Piggy box provided the Service User with a reasonable opportunity to review the Terms, and confirms that the Member agrees to these Terms.\n" +
+                        "\n" +
+                        "Chapter 1: General Provisions\n" +
+                        "\n" +
+                        "Article 1 [Purpose)\n" +
+                        "\n" +
+                        "These Terms and Conditions are intended to define the rights, obligations and responsibilities of Piggy boxes and service users, and other necessary matters related to the use of the services provided by Playbench.\n" +
+                        "\n" +
+                        "Article 2 (Specification, Effect and Revision of Terms and Conditions)\n" +
+                        "\n" +
+                        "Piggy box is effective by posting the contents of this agreement to the service or by other means to the member so that the user can easily understand.\n" +
+                        "The Piggy Box may amend this Agreement to the extent that it does not violate relevant laws such as the Act on Regulation of Regulations, the Act on the Promotion of Information and Communications Network Utilization and Information Protection, the Act on Consumer Protection in Electronic Commerce, and the Consumer Basic Act.\n" +
+                        "If the piggy box revises the agreement, the date and the reason for the revision shall be specified and the notice shall be notified from the 30th day before the effective date of the amended agreement in accordance with the provisions of paragraph 1 together with the current agreement. However, in the case of a significant change in the member's rights or obligations, the member shall be notified at least 30 days in advance, and an amendment will be sent by e-mail registered by the member.\n" +
+                        "\n" +
+                        "If the member does not expressly express his or her denial of intention despite the fact that the piggy box notifies or notifies the amendment in accordance with the preceding paragraph and does not express his or her denial of intention by the effective date of the amendment, You agree to the amended terms.\n" +
+                        "If the member does not agree to the changed terms, the Piggy box cannot apply the contents of the revised terms, in which case the member can stop using the service and terminate the agreement.\n" +
+                        "By agreeing to these terms, you agree to check periodically the Piggy box website and mobile applications for changes and terms of use. The member must pay full attention to the change of the terms and conditions, and the piggy box is not responsible for the damage of the member due to the change of the terms and conditions.\n" +
+                        "A copy of this agreement will be sent to your home if the service user requires it.\n" +
+                        "\n" +
+                        "Article 3 (Other Terms and Conditions)\n" +
+                        "\n" +
+                        "Matters not specified in these Terms and Conditions shall be governed by the Act on the Promotion of Information and Communication Network Utilization and Information Protection, the Law on the Regulation of Terms and Conditions, the relevant laws such as the Telecommunication Business Act and the operating policies set by the Company.\n" +
+                        "In connection with these Terms of Service, the Company's policy changes, operating policies, enactment and revision of laws and regulations, or notices or guidelines issued by public institutions, also form part of the Terms of Service.\n" +
+                        "\n" +
+                        "Article 4 (Definition of Terms)\n" +
+                        "\n" +
+                        "The definitions of terms used in these terms are as follows. Interpretation of undefined terms is based on the relevant laws and service guides. What is not defined in the relevant laws and service guides is in accordance with general business practices.\n" +
+                        "\n" +
+                        "Company: Playbench (plbaybench)\n" +
+                        "User: A person who intends to enter into a contract with a piggy box to use the service and who uses a piggy box service without a member account (non-member).\n" +
+                        "Member: A person who has agreed to these terms and has an account of Piggy box by entering into a contract with Piggy box.\n" +
+                        "User: Words that refer to customers and members\n" +
+                        "ID: A combination of letters, special characters, and numbers selected by the member and approved by the company for member identification and service use.\n" +
+                        "Password: Any combination of letters, special characters, and numbers you choose to confirm that you are a customer matching your ID\n" +
+                        "Content: Materials or information, including signs, letters, figures, colors, voice, sound, images and images (including their complex)\n" +
+                        "Posts: codes (including URL), text, images (including photos), files, etc. that members post or register on services provided by Piggy box\n" +
+                        "Posted by: A member who has posted a post within the services provided by Piggy box.\n" +
+                        "\n" +
+                        "Terms and Conditions: The content of a contract, prepared in advance in a certain form by one party to a contract with multiple parties, regardless of its name, form or scope, in accordance with Article 2 of the Law on the Regulation of Terms.\n" +
+                        "\n" +
+                        "Chapter 2 Service Agreement\n" +
+                        "\n" +
+                        "Article 5 (Signing of Use Agreement through Membership)\n" +
+                        "\n" +
+                        "In order to access certain features of the Service, the User must open a Piggy Box account. The user selects to agree to these terms and privacy policy, fills out the application form specified by the company, applies for membership and the company approves it.\n" +
+                        "Service users cannot use other people's accounts without permission and must provide accurate and complete information when opening an account. The member information entered by the member in the application form is considered to be the member's actual information.\n" +
+                        "Members should thoroughly manage their ID and password. The member shall be responsible for all the consequences caused by neglect or misuse, and the piggy box shall not be held responsible for it.\n" +
+                        "\n" +
+                        "\n" +
+                        "If a member is stolen, ID, password, and additional information is recognized by a third party, he or she must take corrective action such as modifying his / her password immediately and notify the piggy box immediately and follow the instructions in the piggy box. It is.\n" +
+                        "Article 6 (Change of Member Information)\n" +
+                        "\n" +
+                        "Members can view and modify their personal information at any time through the profile edit screen. However, ID required for service management cannot be modified. If you want to change due to unavoidable reasons, you have to terminate the contract and re-join.\n" +
+                        "\n" +
+                        "If a member makes a change in his / her request for membership, the member must make an online modification or notify the piggy box of the change by e-mail or other means. Piggy box is not responsible for any disadvantages caused by not notifying the piggy box of the change.\n" +
+                        "\n" +
+                        "Article 7 (Notice to Members)\n" +
+                        "\n" +
+                        "The Piggy Box may notify you of the rights and obligations required to use the Services by email provided to you by the Piggy Box.\n" +
+                        "Piggy boxes can be replaced with individual notifications by posting to the service in the case of notifications for an unspecified number of members.\n" +
+                        "\n" +
+                        "Article 8 (Termination of Use Contract and Restriction on Use)\n" +
+                        "\n" +
+                        "If you want to terminate your service agreement, you can apply for membership withdrawal from your profile.\n" +
+                        "If a member terminates the contract or is terminated by the Piggy box, all the member's information, including photos, comments, likes and followers, posted by the member in the Piggy box will be deleted and cannot be recovered. However, posts that are reposted by other members or third parties through scrap, sharing, etc. will not be deleted.\n" +
+                        "\n" +
+                        "Piggy box can imgCancel service usage and unilateral account cancellation without additional warning if member violates these terms and operation policy.\n" +
+                        "Members can appeal to the Piggy box about the restriction on the use of the service under Paragraph 3, and the Piggy box will immediately resume the use of the service if the appeal is justified.\n" +
+                        "\n" +
+                        "Chapter 3 Service\n" +
+                        "\n" +
+                        "Article 9 (Service of Piggy Box)\n" +
+                        "\n" +
+                        "The online internet service provided by the piggy box means any service that can be used regardless of the type of wired or wireless devices that can be accessed. The service of the piggy box is as follows:\n" +
+                        "\n" +
+                        "A service that provides various contents through the Internet\n" +
+                        "\n" +
+                        "Advertising agency, advertising sales and advertising agency services\n" +
+                        "Database service\n" +
+                        "Any other services developed by the Piggy Box or provided to the Member through an affiliate agreement with another company.\n" +
+                        "\n" +
+                        "Article 10 (Provision, etc. of Piggy Box)\n" +
+                        "\n" +
+                        "Piggy box service is provided 24 hours a day, 7 days a week.\n" +
+                        "The piggy box may restrict or discontinue all or part of the service if:\n" +
+                        "Inevitable due to construction such as maintenance of service facilities\n" +
+                        "When a member interferes with the company's business activities\n" +
+                        "When there is a problem in normal service due to power outage, failure of facilities or congestion\n" +
+                        "When the service cannot be maintained due to the company's circumstances, such as the termination of the contract with the service provider.\n" +
+                        "In case of force majeure reasons such as natural disasters and national emergency\n" +
+                        "\n" +
+                        "In the case of suspension of service pursuant to Section 2, Piggy box will notify the member in advance through the Article 7 notification method. However, if prior notice is not possible due to interruption of service due to reasons beyond our control (operator's intentional mistake, disk failure without fault, system down, etc.), we will notify you without delay afterwards.\n" +
+                        "Piggy box is not responsible for any damages caused by suspension of service.\n" +
+                        "\n" +
+                        "Article 11 (Responsibilities of Service Users)\n" +
+                        "\n" +
+                        "Members use this service and various contents provided by the service at their own risk, and the member is responsible for all actions and the results of the service.\n" +
+                        "If a member uploads a post that violates public order and morals, if it defames another person, violates privacy, or if a third party's photo is shared without permission, or if it violates copyright law In case of infringement of the rights of others, the member must solve it at his own risk and expense, and the piggy box is not responsible.\n" +
+                        "\n" +
+                        "The user of the service is provided with various contents, and Piggy box is not responsible for the origin, usefulness or intellectual property of such contents. In addition, you agree to understand and acknowledge any inaccurate, offensive, disrespectful or controversial content and to waive any legal rights or remedies you may have or have in connection with Piggy boxes in this regard. .\n" +
+                        "\n" +
+                        "Article 12 (Provision of Information and Publication of Advertising)\n" +
+                        "\n" +
+                        "In operating the service, the Piggy box can post various information on the service screen or provide it to the members by e-mail.\n" +
+                        "Piggy box can be posted on the service screen or sent via e-mail related to the operation of the service. However, when sending an email to a member, the member can unsubscribe.\n" +
+                        "It is entirely a matter between the member and the advertiser that the service user communicates or makes a transaction by using advertisements displayed on the service or participating in the advertiser's promotional activities through the service. If there is a problem between the member and the advertiser, the member and the advertiser must resolve it directly. Piggy box is not responsible for this.\n" +
+                        "\n" +
+                        "Article 13 (Mobile Phones and Other Devices)\n" +
+                        "\n" +
+                        "Piggy box offers free mobile service. However, the charges for telecommunications are subject to the policy of the carrier. Piggy box is not responsible for the charges due to communication.\n" +
+                        "Member agrees to provide all rights necessary to sync (including syncing through the app) with all information required by Piggy Box on his device.\n" +
+                        "\n" +
+                        "Article 14 (Transfer of Piggy Box Service)\n" +
+                        "\n" +
+                        "The member shall not transfer or give the right to use the service or the status of other service use contract to others and shall not provide it as collateral. However, Piggy box service may be transferred for business or other operational reasons.\n" +
+                        "\n" +
+                        "Article 15 (Changes and Termination of the Service)\n" +
+                        "\n" +
+                        "If there is a change in the contents, usage method, or usage time of the service, the reason for the change, the contents of the service to be changed, and the date of delivery shall be notified in the manner prescribed in Article 7 before the change.\n" +
+                        "Piggy boxes may change or terminate all or part of the services they provide, depending on their operational and technical needs, for good reason. In this case, the piggy box may notify you of any changes in the contents of the Service in the manner set forth in Article 7.\n" +
+                        "The piggy box may terminate any or all of the Services for any reason, after a certain period of notice to the User. There is no separate compensation for service users unless otherwise specified.\n" +
+                        "\n" +
+                        "Chapter 4 Duties of Contracting Parties\n" +
+                        "\n" +
+                        "Article 17 (Power and Duties of Piggy Box in Providing Service)\n" +
+                        "\n" +
+                        "Piggy box reserves the right to determine whether content posted on the Service violates these Terms. Piggy Box may, at any time and in its sole discretion, without notice, remove or otherwise terminate your account.\n" +
+                        "\n" +
+                        "Piggy box does not violate the morals and strives to provide continuous and stable service.\n" +
+                        "Piggy box will endeavor to provide the best content and network services to service users.\n" +
+                        "Piggy boxes will be dealt with promptly if any comments or complaints from service users are justified. However, if it is difficult to process immediately, we can notify the user of the reason and the processing schedule by e-mail collected with prior consent.\n" +
+                        "\n" +
+                        "Chapter 5 Content\n" +
+                        "\n" +
+                        "Piggy box is a service based on the members' valuable content. Your content makes the Piggy box richer.\n" +
+                        "Article 18 (Copyright of Content)\n" +
+                        "\n" +
+                        "The copyright of the content posted by the member in the service belongs to the author of the post.\n" +
+                        "Content posted by a member in a Piggy Box is protected by copyright law, and copyright and other intellectual property rights of the work created by Piggy Box belong to the Piggy Box.\n" +
+                        "Members make it clear that they have the copyright and other industrial property rights of the posted content. However, by posting the content on the Service, the Member may use Piggy Box's right to use part or all of the content (and its secondary works) for free and non-exclusively worldwide (use, disclosure, distribution, Advertise, publish, reproduce, perform, publicly transmit, exhibit, distribute, rent, create a second work, or otherwise accept the transfer, and agree not to exercise any copyright rights on the piggy box. Is considered one. This is why the piggy box is being used for free.\n" +
+                        "\n" +
+                        "Article 19 (Member's Contents Act)\n" +
+                        "\n" +
+                        "Content behavior is the act of a member posting a content, including a photo and a member's opinion, to the piggy box as the account holder of the piggy box.\n" +
+                        "The member's content conduct is considered to allow other service users to download and view the content or to use it privately in their homes for non-profit purposes.\n" +
+                        "Members can only post content that is inconsistent with these Terms.\n" +
+                        "Posts that members post within the service may be exposed to search results, services, and related promotions, and may be modified, duplicated, edited, and posted as necessary for such exposure.\n" +
+                        "\n" +
+                        "Article 20 (Content Management and Temporary Measures)\n" +
+                        "\n" +
+                        "If the member's post contains contents that violate related laws such as information and communication network law and copyright law, the owner of the content may request the suspension or deletion of the posting according to the procedure prescribed by the related law, and the piggy box may take action in accordance with the related law. You must take it.\n" +
+                        "Piggy boxes may be reasoned for infringement even without the request of the right holder in accordance with the preceding paragraph, or may take temporary action on the posting in accordance with other Piggy box operating policies and applicable laws.\n" +
+                        "Piggy box will immediately remove posts and warn publishers in the event of content issues.\n" +
+                        "The circle may request a temporary action through the piggy box in the event of a content problem.\n" +
+                        "\n" +
+                        "Chapter 6 Personal Information Collection\n" +
+                        "\n" +
+                        "Piggy box collects the personal information required by members to provide services. Please follow the privacy policy for further details.\n" +
+                        "\n" +
+                        "Article 21 (Protection and Use of Member Information)\n" +
+                        "\n" +
+                        "Piggy box strives to protect the personal information of members as prescribed by relevant laws such as the Act on Promotion of Information and Communication Network Use and Information Protection. Regarding the protection and use of personal information, applicable law and the privacy policy of the piggy box will be applied. However, Piggy box's privacy policy does not apply to linked sites other than the official site of Piggy box.\n" +
+                        "Piggy box collects your membership information in accordance with the Privacy Policy to the minimum extent necessary to establish and fulfill your contract.\n" +
+                        "When Piggy box collects and uses your personal information, it informs the user of its purpose and obtains consent.\n" +
+                        "\n" +
+                        "Piggy box informs the user of the purpose and obtains consent when the new purpose of use is generated or when it is provided to a third party. However, except as otherwise provided in the relevant laws and regulations.\n" +
+                        "Piggy box will not provide any third party with any member's information about the service without your consent. However, exceptions are as follows.\n" +
+                        "In the case of delivery service, the shipper is informed of the minimum user information (name, address and phone number) required for the delivery.\n" +
+                        "\n" +
+                        "When it is extremely difficult to obtain general consent for economic and technical reasons as personal information necessary for the execution of the contract regarding the provision of information and communication services.\n" +
+                        "When necessary for the settlement of payments for transactions of goods\n" +
+                        "When necessary for identity verification to prevent theft\n" +
+                        "If there are unavoidable reasons required by law or by law\n" +
+                        "In case of providing user information necessary for prompt inquiry and user complaint handling\n" +
+                        "Piggy box is not responsible for the member information exposed due to the member's fault.\n" +
+                        "If a member wishes to buttonWithdraw his / her consent to the use or provision of the member information provided to the piggy box during the conclusion of the agreement, the terms of use will be terminated. .\n" +
+                        "\n" +
+                        "Piggy box, in principle, carries out tasks such as handling and managing member information and service operation, but if necessary, it can entrust some or all of its tasks to a company selected by the company. In the case of entrusting business related to such matters, the privacy policy will be announced.\n" +
+                        "The third party who receives personal information from Piggy Box or Piggy Box will destroy the personal information without delay when the purpose of collecting or receiving the personal information is achieved.\n" +
+                        "You can request to view and correct errors on your personal information held by Piggy Box at any time, and Piggy Box will be obliged to take necessary measures without delay. If you request to correct an error, Piggy Box will not use the personal information until you correct the error.\n" +
+                        "\n" +
+                        "Chapter 7 Purchase Contract and Payment\n" +
+                        "\n" +
+                        "Article 22 (Application for Purchase)\n" +
+                        "\n" +
+                        "The user shall apply for a purchase in the piggy box by the following or similar method, and the piggy box shall provide each of the following contents clearly in the user's application for purchase.\n" +
+                        "is.\n" +
+                        "Search and selection of goods, etc.\n" +
+                        "Enter your name, address, phone number, email address (or mobile number)\n" +
+                        "Confirmation of the contents of the terms and conditions, the service burden of the right to buttonWithdraw the subscription, the delivery charges, etc.\n" +
+                        "Application for purchase of goods, confirmation of this, or consent to the confirmation of \"Company\"\n" +
+                        "Choice of payment method\n" +
+                        "\n" +
+                        "Article 23 (Establishment of Purchase Agreement)\n" +
+                        "\n" +
+                        "Piggy box may not approve Article 22 if it falls under each of the followings. However, if you enter into a contract with a minor, you must notify the minor or his / her legal representative that the contract may be canceled if the legal representative does not obtain the consent.\n" +
+                        "If there is any false, missing or misleading information in the application\n" +
+                        "If a minor purchases goods and services prohibited by the Juvenile Protection Act, such as tobacco and alcohol\n" +
+                        "If you believe that accepting other purchase requests is a significant obstacle to the company's technology\n" +
+                        "If it violates other laws and government guidelines\n" +
+                        "The purchase contract is concluded when the consent of the company reaches the user in the form of notification in Article 7.\n" +
+                        "The company's intention to approve of the company shall include information on the confirmation and purchase of the user's purchase application, and the cancellation of the correction of the purchase application.\n" +
+                        "\n" +
+                        "Article 24 (Methods of Payment)\n" +
+                        "\n" +
+                        "Payment for goods or services purchased in a piggy box may be made by any of the following methods. However, the Piggy Box cannot collect any nominal fees in addition to the payment of the Goods for the user's payment method.\n" +
+                        "Account transfer including phone banking and internet banking\n" +
+                        "Prepaid card, debit card, credit card, etc.\n" +
+                        "Online passbook deposit\n" +
+                        "Payment by coupon paid by \"Company\" such as discount coupon\n" +
+                        "The information entered by the user and the related responsibilities are related to the payment of the purchase price and the payment is not made within a reasonable period of time after the subscription of the goods or services.\n" +
+                        "Piggy box can then imgCancel the order.\n" +
+                        "The piggy box can verify the purchaser's right to use the payment method and, if necessary, request the suspension of the transaction and the submission of a calling document.\n" +
+                        "Article 25 (Change and Cancellation of Notification of Receipt and Purchase Request)\n" +
+                        "\n" +
+                        "The piggy box will notify the user when the user has made a purchase request. The user who has received the acknowledgment notice may request a change or cancellation of the purchase application immediately after receiving the acknowledgment notice if there is a discrepancy in the declaration of intention. Should be handled accordingly.\n" +
+                        "If the user who received the acknowledgment notice paid, he / she complies with the provisions of Article 28 withdrawal.\n" +
+                        "\n" +
+                        "Article 26 (Supply of Goods, etc.)\n" +
+                        "\n" +
+                        "Piggy boxes take other necessary measures such as ordering, packaging, etc. so that the goods can be delivered within 7 days of the user's subscription, unless otherwise agreed upon when the user and the goods are supplied. However, the Company shall take action within three business days after the Company has already received all or part of the price of the Goods.\n" +
+                        "Take the appropriate steps to confirm urgent procedures and progress.\n" +
+                        "\n" +
+                        "In case of force majeure reasons such as holidays, other non-work days or natural disasters, the corresponding deadline is excluded from the delivery period.\n" +
+                        "\n" +
+                        "Article 27 (Refund)\n" +
+                        "\n" +
+                        "Piggy box shall be notified of the reason without delay when goods, etc. that a user applies for purchase cannot be delivered or provided for reasons such as out of stock. Refund or take action as needed within\n" +
+                        "\n" +
+                        "Article 28 (Withdrawal of Subscription, etc.)\n" +
+                        "\n" +
+                        "A user who has entered into a contract for the purchase of goods, etc. with the company can buttonWithdraw the subscription within 7 days of receiving the notification of receipt confirmation. However, supply is later than when we received notice\n" +
+                        "If so, you can buttonWithdraw your subscription within 7 days of receiving the supply of the goods.\n" +
+                        "The user cannot return or exchange goods if he / she receives the goods.\n" +
+                        "When the value of goods, etc. has decreased significantly due to the use of the user or consumption of some\n" +
+                        "When the value of goods, etc. has decreased significantly enough to make it difficult to resell over time\n" +
+                        "\n" +
+                        "When copying is possible due to goods with the same performance, etc.\n" +
+                        "Other cases prescribed by Presidential Decree for the safety of transactions.\n" +
+                        "In the case of Paragraph 2 No. 2 to No. 4, if the company does not specify in advance where the customer can easily know that the withdrawal of the subscription is restricted or provide a trial product, the withdrawal of the subscription of the user is restricted. Does not.\n" +
+                        "Notwithstanding the provisions of paragraphs (1) and (2), the User shall, within three months from the date of receipt of the Goods, if the Goods are different from those displayed or advertised or otherwise inconsistent, You can buttonWithdraw the subscription within 30 days from the date of knowledge.\n" +
+                        "\n" +
+                        "Article 29 (Effect of Withdrawal of Subscription, etc.)\n" +
+                        "\n" +
+                        "Piggy box will refund the goods already paid within 3 business days if the goods are returned from the user. In this case, when the company delays the refund of goods, etc. to the user.\n" +
+                        "For the delay period, the delayed interest calculated by multiplying the delayed interest rate determined and announced by the Fair Trade Commission is paid.\n" +
+                        "\n" +
+                        "The Company shall provide the payment method without delay when the buyer pays for the goods, etc. using the payment method specified by the credit card or the Electronic Financial Transactions Act, etc.\n" +
+                        "You can ask a vendor to suspend or imgCancel a claim for goods.\n" +
+                        "In the case of withdrawal of subscription, you will be responsible for the cost of returning the goods. Piggy box does not claim penalty or damages for the user's withdrawal of subscription.\n" +
+                        ". However, if the contents of goods, etc. are different from the contents of the display, advertisement, or contract, and the contract is withdrawn, the company shall bear the cost for returning the goods.\n" +
+                        "If the user bears the shipping cost when receiving the goods, the company clearly indicates who will pay the cost when the subscription is withdrawn.\n" +
+                        "\n" +
+                        "Article 30 (Points and Coupons)\n" +
+                        "\n" +
+                        "Piggy box can purchase a product to a member using the purchase service or, if a review is written, a product coupon can be given to the member for a certain amount of points or a certain percentage discount as indicated on the product purchase page.\n" +
+                        "Points and coupons issued through paragraph 1 will not be refunded in cash.\n" +
+                        "The product coupon issued through Paragraph 1 is valid for the specified period and is valid for 180 days from the date of issue for points (however, for points issued by event type, it is valid for the specified time limit).\n" +
+                        "In the case of using the points issued through paragraph 1, they will be used in the order of remaining validity.\n" +
+                        "Points and merchandise coupons eligible for discount through Paragraph 1 will be collected if the product is canceled or returned after purchase and if the review is deleted. The specific operating method is in accordance with the company's operating policies.\n" +
+                        "If the amount is over 100 won, you can use up to 100% of the points you have at checkout.\n" +
+                        "\n" +
+                        "At the request of the member, points can be earned as cash that can be returned if the product purchased from the Piggy box is canceled or returned and if the excess amount is deposited (but no interest is incurred). In this case, the validity period is 5 years from the date of payment.\n" +
+                        "Points and Coupons may be restricted for some items or amounts and cannot be used after the expiration date.\n" +
+                        "If you leave the membership, points and coupons will be lost. However, if there is a point that can be returned in cash, it will be refunded according to the Piggy box operation policy after confirming that it is the same as the account holder and the person applying for the refund.\n" +
+                        "Points and Coupons may only be used for the Member's own purchase and may not be sold or transferred to anyone under any circumstances. If you do this, the piggy box may take a refund on the coupon or points.\n" +
+                        "\n" +
+                        "Chapter 8 compensation for damages\n" +
+                        "\n" +
+                        "Article 31 (Compensation for Damage)\n" +
+                        "\n" +
+                        "If a member incurs damages to the Piggy Box due to a breach of the provisions of these Terms and Conditions, the member who violates these Terms and Conditions shall indemnify all damages occurring to the Piggy box.\n" +
+                        "If the Piggy box receives various objections, including claims for damages or litigation, from a third party other than the member due to illegal activities or violations of these Terms and Conditions, in which the member uses the service, the member shall at his own risk and expense. The piggy box must be indemnified, and if the piggy box is not indemnified, the member shall be liable for any damages incurred by the piggy bank.\n" +
+                        "Piggy box will not be held liable for any damages arising out of the free service.\n" +
+                        "\n" +
+                        "Article 32 (Disclaimer)\n" +
+                        "\n" +
+                        "Piggy boxes are exempt from responsibility for the service provided they cannot provide the service due to natural disasters or similar force majeure.\n" +
+                        "Piggy box is not responsible for the suspension of service or disability of service due to the member's fault.\n" +
+                        "Piggy boxes are exempt from liability in the event of damages caused by carriers suspending or not providing network services.\n" +
+                        "Piggy boxes are not responsible for the failure of the service user to earn the expected return from using the service and are exempt from liability for damages resulting from the use of the service.\n" +
+                        "Piggy box is not obliged to intervene in disputes arising out of the service between the user or between the user and a third party and shall not be liable for any damages.\n" +
+                        "Piggy box is not responsible for the contents, reliability and accuracy of information, materials, facts posted or transmitted by the member.\n" +
+                        "\n" +
+                        "Piggy box is not obliged to intervene in any disputes arising out of the service between the members or between the members and third parties and shall not be liable for any damages.\n" +
+                        "Piggy box is not responsible for any problems arising out of the device environment of the service user, or problems arising out of the network environment without the company's fault.\n" +
+                        "Article 33 (Dispute Mediation and Jurisdiction)\n" +
+                        "\n" +
+                        "Disputes arising between the company and the user regarding the use of the piggy box service must be settled smoothly by agreement between the parties.\n" +
+                        "Members should raise or solve any problems related to the copyright infringement, defamation or personal information and use of the service through the customer center operated by Piggy Box.\n" +
+                        "\n" +
+                        "Lawsuits filed between a piggy box and a member shall be governed by the laws of the Republic of Korea.\n" +
+                        "Lawsuits concerning disputes between piggy boxes and members shall be filed with the competent court under the Civil Procedure Law.\n" +
+                        "Addendum\n" +
+                        "\n" +
+                        "This agreement is effective from January 1, 2020. The previous Terms will be replaced by these Terms. Subscribers prior to the effective date of the amended Terms of Use are also subject to the amended Terms of Use.\n" +
+                        "\n" +
+                        "If you have any questions about these terms, please contact playbench@playbench.co.kr.\n" +
+                        "\n" +
+                        "playbench\n" +
+                        "\n" +
+                        "272, Sansan-daero, Jungwon-gu, Seongnam-si, Gyeonggi-do South Korea"</string>
+</resources>

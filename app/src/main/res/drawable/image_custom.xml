@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/pig_3"
+        android:height="64sp"
+        android:width="64sp"
+        ></item>
+
+</layer-list>
